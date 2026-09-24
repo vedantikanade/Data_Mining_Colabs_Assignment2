@@ -13,17 +13,17 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 | **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 | https://youtu.be/mUaciusTJ30 | ✅ Completed |
 | **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | | |
 | **05** | Linear Algebra & Tensors | https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0 | | |
-| **06** | Probability & Statistics | [Link](#) | ⏳ Pending |
-| **07** | Calculus & Optimization | [Link](#) | ⏳ Pending |
-| **08** | Scikit-Learn Overview | [Link](#) | ⏳ Pending |
-| **09** | Data Preprocessing | [Link](#) | ⏳ Pending |
-| **10** | Neural Network Fundamentals | [Link](#) | ⏳ Pending |
-| **11** | PyTorch Fundamentals | [Link](#) | ⏳ Pending |
-| **12** | TensorFlow Basics | [Link](#) | ⏳ Pending |
-| **13** | Model Evaluation | [Link](#) | ⏳ Pending |
-| **14** | Convolutional Networks | [Link](#) | ⏳ Pending |
-| **15** | Recurrent Networks & Sequence Models | [Link](#) | ⏳ Pending |
-| **16** | Transformers & Advanced Topics | [Link](#) | ⏳ Pending |
+| **06** | Probability & Statistics |   | ⏳ Pending |
+| **07** | Calculus & Optimization |   | ⏳ Pending |
+| **08** | Scikit-Learn Overview |   | ⏳ Pending |
+| **09** | Data Preprocessing |   | ⏳ Pending |
+| **10** | Neural Network Fundamentals |   | ⏳ Pending |
+| **11** | PyTorch Fundamentals |   | ⏳ Pending |
+| **12** | TensorFlow Basics |   | ⏳ Pending |
+| **13** | Model Evaluation |   | ⏳ Pending |
+| **14** | Convolutional Networks |   | ⏳ Pending |
+| **15** | Recurrent Networks & Sequence Models |   | ⏳ Pending |
+| **16** | Transformers & Advanced Topics |   | ⏳ Pending |
 
 ---
 

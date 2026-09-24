@@ -8,11 +8,11 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 | # | Topic | Colab Notebook | YouTube Video Link | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | Introduction to Python | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 | https://youtu.be/3I4x-iQzl8I | ✅ Completed |
+| **01** | Introduction to Python: | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 | https://youtu.be/3I4x-iQzl8I | ✅ Completed |
 | **02** | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 | https://youtu.be/wAisLsb27oo  | ✅ Completed |
 | **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 |  | ✅ Completed |
-| **04** | Data Visualization | [Link](#) | ⏳ Pending |
-| **05** | Linear Algebra & Tensors | [Link](#) | ⏳ Pending |
+| **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | ⏳ Pending |
+| **05** | Linear Algebra & Tensors | https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0 | ⏳ Pending |
 | **06** | Probability & Statistics | [Link](#) | ⏳ Pending |
 | **07** | Calculus & Optimization | [Link](#) | ⏳ Pending |
 | **08** | Scikit-Learn Overview | [Link](#) | ⏳ Pending |
@@ -61,8 +61,6 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 ---
 
----
-
 ### 04. Data Visualization (Matplotlib)
 * **Colab Notebook:** https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb
 * **YouTube Explanation:** 
@@ -75,3 +73,12 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
  
   ---
   
+### 05. Intro to Linear Algebra
+* **Colab Notebook:** https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0
+* **YouTube Explanation:** 
+* **Core Concepts:**
+  * Vectors as geometric arrows, lists, and points, along with vector arithmetic, scaling, and length/norm calculations.
+  * Geometric and algebraic properties of the dot product as a core measure of similarity between vectors.
+  * Viewing matrices as active spatial transformations (stretching, rotation, reflection) rather than static data tables.
+  * Deriving matrix multiplication from dot products, solving linear systems, and finding matrix inverses.
+  * Eigenvectors and eigenvalues as invariant transformation directions, leading into machine learning applications like linear layers ($y = Wx + b$) and Principal Component Analysis (PCA).

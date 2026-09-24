@@ -11,8 +11,8 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 | **01** | Introduction to Python: | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 | https://youtu.be/3I4x-iQzl8I | ✅ Completed |
 | **02** | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 | https://youtu.be/wAisLsb27oo  | ✅ Completed |
 | **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 | https://youtu.be/mUaciusTJ30 | ✅ Completed |
-| **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | ⏳ Pending |
-| **05** | Linear Algebra & Tensors | https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0 | ⏳ Pending |
+| **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | | |
+| **05** | Linear Algebra & Tensors | https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0 | | |
 | **06** | Probability & Statistics | [Link](#) | ⏳ Pending |
 | **07** | Calculus & Optimization | [Link](#) | ⏳ Pending |
 | **08** | Scikit-Learn Overview | [Link](#) | ⏳ Pending |

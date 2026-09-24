@@ -8,8 +8,8 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 | # | Topic | Colab Notebook | YouTube Video Link | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | Introduction to Python | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 |  | ✅ Completed |
-| **02** | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 |   | ✅ Completed |
+| **01** | Introduction to Python | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 | https://youtu.be/3I4x-iQzl8I | ✅ Completed |
+| **02** | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 | https://youtu.be/wAisLsb27oo  | ✅ Completed |
 | **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 |  | ✅ Completed |
 | **04** | Data Visualization | [Link](#) | ⏳ Pending |
 | **05** | Linear Algebra & Tensors | [Link](#) | ⏳ Pending |
@@ -31,7 +31,7 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 ### 01. Introduction to Python
 * **Colab Notebook:** https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1
-* **YouTube Explanation:** 
+* **YouTube Explanation:** https://youtu.be/3I4x-iQzl8I
 * **Core Concepts:**
   * Zero-indexed list retrieval, `.pop()` index removal, and in-place modification.
   * Safe dictionary lookups with `.get()` and `.setdefault()` to avoid `KeyError` exceptions.
@@ -42,7 +42,7 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 ### 02. Introduction to NumPy
 * **Colab Notebook:** https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1
-* **YouTube Explanation:**  
+* **YouTube Explanation:** https://youtu.be/wAisLsb27oo
 * **Core Concepts:**
   * Array dimensions: 1D vectors, 2D matrices, and 3D tensors (e.g., RGB channels).
   * Helper initializations: `np.zeros()` for bias terms, `np.ones()` for masks, and `np.eye()` for skip connections in ResNets.
@@ -58,3 +58,20 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
   * Indexing and slicing via `.loc` (label-based) and `.iloc` (integer position-based).
   * Data cleaning routines: detecting missing values, handling nulls with `.fillna()`, and dropping rows with `.dropna()`.
   * Group operations and feature aggregation using `.groupby()`.
+
+---
+
+---
+
+### 04. Data Visualization (Matplotlib)
+* **Colab Notebook:** https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb
+* **YouTube Explanation:** 
+* **Core Concepts:**
+  * Transitioning from global state functions (`plt.*`) to `fig, ax = plt.subplots()` for explicit visual control.
+  * Understanding `Figure`, `Axes`, `Axis`, and `Artist` objects to diagnose and fix formatting issues on sight.
+  * Uncovering real-world data issues (missing sensor gaps, corrupted spikes) across multi-station weather time-series data.
+  * Configuring tick locators, date formatting, spines, and direct callout annotations (`ax.annotate`).
+  * Constructing multi-panel figures with `GridSpec`, using shared axes, and applying colorblind-safe colormaps.
+ 
+  ---
+  

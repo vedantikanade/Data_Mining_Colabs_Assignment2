@@ -11,7 +11,7 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 | **01** | Introduction to Python: | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 | https://youtu.be/3I4x-iQzl8I | ✅ Completed |
 | **02** | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 | https://youtu.be/wAisLsb27oo  | ✅ Completed |
 | **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 | https://youtu.be/mUaciusTJ30 | ✅ Completed |
-| **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | | |
+| **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | https://youtu.be/T9-Sn_1lu5I | ✅ Completed |
 | **05** | Linear Algebra & Tensors | https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0 | | |
 | **06** | Probability & Statistics |   | ⏳ Pending |
 | **07** | Calculus & Optimization |   | ⏳ Pending |
@@ -63,7 +63,7 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 ### 04. Data Visualization (Matplotlib)
 * **Colab Notebook:** https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb
-* **YouTube Explanation:** 
+* **YouTube Explanation:** https://youtu.be/T9-Sn_1lu5I
 * **Core Concepts:**
   * Transitioning from global state functions (`plt.*`) to `fig, ax = plt.subplots()` for explicit visual control.
   * Understanding `Figure`, `Axes`, `Axis`, and `Artist` objects to diagnose and fix formatting issues on sight.

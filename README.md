@@ -10,7 +10,7 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 | :--- | :--- | :--- | :--- | :--- |
 | **01** | Introduction to Python: | https://colab.research.google.com/drive/17E_cjURtuCBcPte6qUrMlCCdHRJ0QUB4?authuser=1 | https://youtu.be/3I4x-iQzl8I | ✅ Completed |
 | **02** | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 | https://youtu.be/wAisLsb27oo  | ✅ Completed |
-| **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 |  | ✅ Completed |
+| **03** | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 | https://youtu.be/mUaciusTJ30 | ✅ Completed |
 | **04** | Introduction to matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1#scrollTo=SJoenKNKuUXb | ⏳ Pending |
 | **05** | Linear Algebra & Tensors | https://colab.research.google.com/drive/1Sx-IO5N7MoD1nHqKMpNj44AdwIBrSvP0 | ⏳ Pending |
 | **06** | Probability & Statistics | [Link](#) | ⏳ Pending |
@@ -52,7 +52,7 @@ This repository contains my executed Google Colab notebooks (with all outputs sa
 
 ### 03. Introduction to Pandas
 * **Colab Notebook:** https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1
-* **YouTube Explanation:** 
+* **YouTube Explanation:** https://youtu.be/mUaciusTJ30
 * **Core Concepts:**
   * Tabular data abstractions using 1D Series and 2D DataFrames.
   * Indexing and slicing via `.loc` (label-based) and `.iloc` (integer position-based).

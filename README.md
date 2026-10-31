@@ -20,28 +20,18 @@ Add the final Colab and YouTube URLs in the placeholder fields below.
 | 02 | Introduction to NumPy | https://colab.research.google.com/drive/1YyP6U9_i4ljQPmF6f8tzY9kkEZJzd9vp?authuser=1 | https://youtu.be/wAisLsb27oo | ✅ Completed |
 | 03 | Introduction to Pandas | https://colab.research.google.com/drive/1qkK9z4Z4K5-jjV4AZ9dW3MFBtETP3RfL?authuser=1 | https://youtu.be/mUaciusTJ30 | ✅ Completed |
 | 04 | Introduction to Matplotlib | https://colab.research.google.com/drive/1PWbv1VTxUL-h8zc7XOBok2yhvTLaPZL8?authuser=1 | https://youtu.be/T9-Sn_1lu5I | ✅ Completed |
-| 05 | Intro to Linear Algebra: Zero to Hero for ML | https://colab.research.google.com/drive/1hDWoG3Rff8P9K4XOBpDSvk-t_CT71Qda?authuser=1 | PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 06 | Linear Algebra for Deep Learning | https://colab.research.google.com/drive/1m7Ikj-Rtkb6Y-r1o-Dmz1JL09c5ZiBUv?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 07 | Linear Algebra: The MODEL Box | https://colab.research.google.com/drive/1vxCN42XVuIX16HAsrXA0Aagq7j0WdBNq?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 08 | Intro to Probability: Zero to Hero for ML | https://colab.research.google.com/drive/167UqtMULhmQ56sOyxkhCbivWM41HT2FX?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 09 | Probability Fundamentals for Deep Learning | https://colab.research.google.com/drive/1crKVfbHYS75XskZ_fsiAShONIMNFFqXe?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 10 | Probability & Statistics: The DATA Box | https://colab.research.google.com/drive/1kBe6aGwGwBEu6rGv5fGXlpApNWNLRMII?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 11 | Intro to Statistics: Zero to Hero for ML | https://colab.research.google.com/drive/1FxQBjwbLMUX5hsKwUJJXPF0qVONwuj0T?authuser=1 | PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 12 | Statistics for Deep Learning: Zero to Hero | https://colab.research.google.com/drive/1puj2UGqjq7i7p0sTE5S3gymUe-MOHGxP?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 13 | Intro to Calculus: Zero to Hero for ML | https://colab.research.google.com/drive/13uuWoVizOJWk-XLNpfhqQ4xtmxsL6UAm?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 14 | Calculus for Deep Learning | https://colab.research.google.com/drive/1CG5Dpu4ll9WoF7RRnck1LGlSJAk9I8BR?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 15 | Calculus: The LOSS & UPDATE Boxes | https://colab.research.google.com/drive/1Yw45XNhhW1d41KUw658lPzEnFvZzA1rn?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
-| 16 | The Learning Machine | https://colab.research.google.com/drive/1XS5eHSw0l6tXQ6k9u_VkvdXkVmDRmCLO?authuser=1
-| PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
+| 05 | Intro to Linear Algebra: Zero to Hero for ML | https://colab.research.google.com/drive/1hDWoG3Rff8P9K4XOBpDSvk-t_CT71Qda?authuser=1| https://youtu.be/ikie6QvGCyo | ✅ Completed |
+| 06 | Linear Algebra for Deep Learning | https://colab.research.google.com/drive/1m7Ikj-Rtkb6Y-r1o-Dmz1JL09c5ZiBUv?authuser=1 | https://youtu.be/QEYWobcqYwk | ✅ Completed |
+| 07 | Linear Algebra: The MODEL Box | https://colab.research.google.com/drive/1vxCN42XVuIX16HAsrXA0Aagq7j0WdBNq?authuser=1 | https://youtu.be/TzbLIOZFZzA | ✅ Completed |
+| 08 | Intro to Probability: Zero to Hero for ML | https://colab.research.google.com/drive/167UqtMULhmQ56sOyxkhCbivWM41HT2FX?authuser=1 | https://youtu.be/S2AVcS3xFx0 | ✅ Completed |
+| 09 | Probability Fundamentals for Deep Learning | https://colab.research.google.com/drive/1crKVfbHYS75XskZ_fsiAShONIMNFFqXe?authuser=1 | https://youtu.be/Bv67cLID9ZE | ✅ Completed |
+| 10 | Probability & Statistics: The DATA Box | https://colab.research.google.com/drive/1kBe6aGwGwBEu6rGv5fGXlpApNWNLRMII?authuser=1 | https://youtu.be/VdXvY1eoyps | ✅ Completed |
+| 11 | Intro to Statistics: Zero to Hero for ML | https://colab.research.google.com/drive/1FxQBjwbLMUX5hsKwUJJXPF0qVONwuj0T?authuser=1 | https://youtu.be/9Sxj25DdAKk | ✅ Completed |
+| 12 | Statistics for Deep Learning: Zero to Hero | https://colab.research.google.com/drive/1puj2UGqjq7i7p0sTE5S3gymUe-MOHGxP?authuser=1 | PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
+| 13 | Intro to Calculus: Zero to Hero for ML | https://colab.research.google.com/drive/13uuWoVizOJWk-XLNpfhqQ4xtmxsL6UAm?authuser=1 | PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
+| 14 | Calculus for Deep Learning | https://colab.research.google.com/drive/1CG5Dpu4ll9WoF7RRnck1LGlSJAk9I8BR?authuser=1 | https://youtu.be/qfxCrYI2saQ | ✅ Completed |
+| 15 | Calculus: The LOSS & UPDATE Boxes | https://colab.research.google.com/drive/1Yw45XNhhW1d41KUw658lPzEnFvZzA1rn?authuser=1 | PASTE_YOUTUBE_LINK_HERE | ✅ Completed |
+| 16 | The Learning Machine | https://colab.research.google.com/drive/1XS5eHSw0l6tXQ6k9u_VkvdXkVmDRmCLO?authuser=1 | https://youtu.be/FkSe6mcePMg | ✅ Completed |
 
 ## Colab Playground
 
@@ -105,7 +95,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_intro_to_linear_algebra_zero_to_hero_for_ml.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1hDWoG3Rff8P9K4XOBpDSvk-t_CT71Qda?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/ikie6QvGCyo
 
 Core concepts:
 
@@ -122,7 +112,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_linear_algebra_for_deep_learning-2.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1m7Ikj-Rtkb6Y-r1o-Dmz1JL09c5ZiBUv?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/QEYWobcqYwk
 
 Core concepts:
 
@@ -137,7 +127,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_foundations_2_linear_algebra.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1vxCN42XVuIX16HAsrXA0Aagq7j0WdBNq?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/TzbLIOZFZzA
 
 Core concepts:
 
@@ -153,7 +143,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_intro_to_probability_zero_to_hero_for_ml.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/167UqtMULhmQ56sOyxkhCbivWM41HT2FX?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/S2AVcS3xFx0
 
 Core concepts:
 
@@ -168,7 +158,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_probability_fundamentals_for_deep_learning.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1crKVfbHYS75XskZ_fsiAShONIMNFFqXe?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/Bv67cLID9ZE
 
 Core concepts:
 
@@ -183,7 +173,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_foundations_3_probability.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1kBe6aGwGwBEu6rGv5fGXlpApNWNLRMII?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/VdXvY1eoyps
 
 Core concepts:
 
@@ -199,7 +189,7 @@ Core concepts:
 
 - **Executed notebook:** `execute_final_intro_to_statistics_zero_to_hero_for_ml.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1FxQBjwbLMUX5hsKwUJJXPF0qVONwuj0T?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/9Sxj25DdAKk
 
 Core concepts:
 
@@ -247,7 +237,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_calculus_for_deep_learning.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1CG5Dpu4ll9WoF7RRnck1LGlSJAk9I8BR?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/qfxCrYI2saQ
 
 Core concepts:
 
@@ -278,7 +268,7 @@ Core concepts:
 
 - **Executed notebook:** `executed_final_foundations_1_the_learning_machine.ipynb`
 - **Colab Notebook:** https://colab.research.google.com/drive/1XS5eHSw0l6tXQ6k9u_VkvdXkVmDRmCLO?authuser=1
-- **YouTube Explanation:** PASTE_YOUTUBE_LINK_HERE
+- **YouTube Explanation:** https://youtu.be/FkSe6mcePMg
 
 Core concepts:
 
